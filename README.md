@@ -1,16 +1,10 @@
 # animated_icon_example
 
-A new Flutter project.
+Example of how to use AnimatedIcon
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+See the blog post here for details
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter AnimatedIcon Example](https://rightclick.com.au/2022/02/28/flutter-animatedicon-example/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
