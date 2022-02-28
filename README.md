@@ -1,6 +1,6 @@
 # animated_icon_example
 
-Example of how to use AnimatedIcon
+Example of how to use the AnimatedIcon widget.
 
 ## Getting Started
 
